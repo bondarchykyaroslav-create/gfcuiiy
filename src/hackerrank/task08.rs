@@ -48,4 +48,4 @@ mod tests {
         let scores = vec![10, 10, 10];
         assert_eq!(breaking_records(&scores), vec![0, 0]);
     }
-}
+}і
